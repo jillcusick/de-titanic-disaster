@@ -1,0 +1,5 @@
+#ignore data folder
+/src/data
+
+#ignore hidden files
+.DS_Store
